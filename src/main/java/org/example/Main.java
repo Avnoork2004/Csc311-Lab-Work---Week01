@@ -8,6 +8,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
 
         // creates new Vehicle object with wheels, color, engine, and fuel type
+
         Vehicle _vehicle = new Vehicle(4, "purple", 2.3f, "gas");
 
         // creates new Car object with wheels, color, engine, fuel type, and brand
